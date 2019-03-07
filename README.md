@@ -1,1 +1,1 @@
-# rails_meetup_notes
+# Self Notes from Brisane Ruby and Rails Meetups
